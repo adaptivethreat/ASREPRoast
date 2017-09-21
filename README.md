@@ -1,6 +1,6 @@
 # ASREPRoast
 
-Project that retrieves crackable hashes from KRB5 AS-REP responses for users without kerberoast preauthentication enabled.
+Project that retrieves crackable hashes from KRB5 AS-REP responses for users without Kerberos preauthentication enabled.
 
 More information is available [here](http://www.harmj0y.net/blog/activedirectory/roasting-as-reps/) and in [ExumbraOps' post](http://www.exumbraops.com/blog/2016/6/1/kerberos-party-tricks-weaponizing-kerberos-protocol-flaws).
 
